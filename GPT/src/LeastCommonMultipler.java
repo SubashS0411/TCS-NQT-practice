@@ -1,3 +1,4 @@
+//8. LCM ⭐⭐⭐⭐
 public class LeastCommonMultipler
 {
     public static void main(String[] args) {

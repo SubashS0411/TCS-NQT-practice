@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GPT/Day2/Day2.iml" filepath="$PROJECT_DIR$/GPT/Day2/Day2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GPT/Day3/Day3.iml" filepath="$PROJECT_DIR$/GPT/Day3/Day3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GPT/Day4/Day4.iml" filepath="$PROJECT_DIR$/GPT/Day4/Day4.iml" />
       <module fileurl="file://$PROJECT_DIR$/GPT/GPT.iml" filepath="$PROJECT_DIR$/GPT/GPT.iml" />
       <module fileurl="file://$PROJECT_DIR$/NQT.iml" filepath="$PROJECT_DIR$/NQT.iml" />
     </modules>

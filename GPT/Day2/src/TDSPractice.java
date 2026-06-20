@@ -1,3 +1,19 @@
+//(Formula and Unit Conversion)
+//
+//These are extremely common in TCS.
+//
+//        1. m/s → km/hr ⭐⭐⭐⭐⭐
+//
+//Formula
+//
+//km/hr = m/s × 18/5
+//Example
+//
+//10 m/s
+//
+//        Output
+//
+//36 km/hr
 public class TDSPractice {
     public static void main(String[] args) {
 //        int kmhrs=20;

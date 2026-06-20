@@ -1,3 +1,4 @@
+//6. Count Digits ⭐⭐⭐⭐
 public class CountDigits {
     public static void main(String[] args) {
         int n=738;

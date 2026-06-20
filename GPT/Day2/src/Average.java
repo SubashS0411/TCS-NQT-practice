@@ -1,3 +1,5 @@
+//5. Average of N Numbers ⭐⭐⭐⭐⭐
+//7. Weekly Exercise Summary (PYQ) ⭐⭐⭐⭐⭐
 public class Average {
     public static void main(String[] args) {
         int arr[]={10,20,15,30,40,35,25};

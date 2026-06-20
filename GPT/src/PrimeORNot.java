@@ -1,3 +1,4 @@
+//5. Prime Number ⭐⭐⭐⭐⭐
 public class PrimeORNot {
     public static void main(String[] args) {
         int n=12;

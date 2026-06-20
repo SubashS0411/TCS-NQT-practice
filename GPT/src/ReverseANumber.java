@@ -1,3 +1,4 @@
+//1. Reverse a Number ⭐⭐⭐⭐⭐
 public class ReverseANumber {
     public static void main(String[] args) {
         int num=71;
